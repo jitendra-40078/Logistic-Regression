@@ -53,6 +53,6 @@ Evaluate the model used.
 
 # Model Evaluation:
 
-When you're done with the model building and residual analysis and have made predictions on the test set, just make sure you use y_test and y_pred.
+This model give 75% accuracy.
 
-this Logistic Model give 75% accuracy.
+
